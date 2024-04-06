@@ -1,4 +1,4 @@
-theme: jekyll-theme-minima
+#theme: jekyll-theme-minima
 # Where things are
 source              : .
 destination         : ./_site
