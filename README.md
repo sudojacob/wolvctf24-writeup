@@ -1,6 +1,6 @@
 # Eternally Pwned: Exfiltration
 #### Category: Forensics
-![image](sudojacob.github.io/wolvctf24-writeup/Screenshot from 2024-03-24 22-56-23.png)
+![image](Screenshot from 2024-03-24 22-56-23.png)
  
 ###### The attached file is a .pcap, so we can analyze it using wireshark.
 
